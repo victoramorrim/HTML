@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="v.iewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FORMULARIO DE CADASTRO</h1>
+    <form>
+        <label for="Nome">Nome:</label>
+        <input id="Nome" type="text">
+        <br>
+        <label for="email">E-mail:</label>
+        <input id="email" type="email">
+        <br>
+        <label for="password" >Senha:</label>
+        <input id="password" type="password" >
+       <br>
+        <input type="submit" value="Cadastrar">
+    </form>
+<body>
+</html>
